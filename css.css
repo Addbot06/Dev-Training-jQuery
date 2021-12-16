@@ -1,0 +1,23 @@
+.tr-done {
+  text-decoration: line-through;
+  /* color: red; */
+  background-color: rgb(133, 247, 133);
+}
+.tr-hold {
+  text-decoration: line-through;
+  /* color: red; */
+  background-color: rgb(255, 147, 147);
+}
+.container {
+  display: flex;
+  padding-top: 50px;
+}
+.left-form {
+  padding-right: 30px;
+}
+.btn-done {
+  margin: 0 3px;
+}
+.btn-remove {
+  margin: 0 3px;
+}
